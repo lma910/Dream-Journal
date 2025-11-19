@@ -1,0 +1,7 @@
+{
+  "name": "Oneiric - Dream Journal",
+  "description": "Voice-based dream journal that visualizes and interprets your dreams using AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
